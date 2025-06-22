@@ -151,7 +151,7 @@
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk</p>
+        <li>Sate 5 tusuk
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -159,7 +159,7 @@
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-      </ul>
+      
     </div>
     <div class="package">
       <img src="empal-putri.jpg" alt="Paket Empal Putri">
@@ -172,7 +172,7 @@
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk</p>
+        <li>Sate 5 tusuk
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -180,7 +180,7 @@
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
-      </ul>
+      
     </div>
     <div class="package">
       <img src="sate-putra.jpg" alt="Paket Sate Putra">
@@ -193,7 +193,7 @@
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk</p>
+        <li>Sate 5 tusuk
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -201,7 +201,7 @@
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 10 tusuk</li>
-      </ul>
+      
     </div>
     <div class="package">
       <img src="empal-putra.jpg" alt="Paket Empal Putra">
@@ -214,7 +214,7 @@
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk</p>
+        <li>Sate 5 tusuk
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
