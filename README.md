@@ -143,7 +143,7 @@
     <div class="package">
         <div class="package-section" id="Paket Sate / Empal Putri">
         <h3 style="color:#c9a24c;">Paket Sate / Empal Putri</h3>
-        <img src="sate-putri.jpg" <a href="#Paket Sate / Empal Putri">Paket Sate / Empal Putri</a>
+        <img src="sate-putri.jpg" alt="Paket Sate / Empal Putri">
         <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong>
         <ul>
         <p>(Warangan)</p>
@@ -167,7 +167,7 @@
           <p><strong>120 Box:</strong> Rp5.000.000</p>
     <div class="package-section" id="Paket Sate / Empal Putra">
     <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
-    <img src="sate-putra.jpg" <a href="#Paket Sate / Empal Putra">Paket Sate / Empal Putra</a>
+    <img src="empal-putra.jpg" alt="Paket Sate / Empal Putra">
     <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong>
     <ul>
       <p>(Warangan)</p>
@@ -193,7 +193,7 @@
   <div class="package-section" id="olahan">
     <h2 style="color:#c9a24c;">Paket Olahan</h2>
     <div class="package">
-      <img src="olahan.jpg" <a href="#Paket Olahan">Paket Olahan</a>
+    <img src="olahan.jpg" alt="Paket Olahan">
       <p><strong>450 Sate + 70 Empal:</strong> Rp1.900.000</p>
       <p><strong>500 Sate + 80 Empal:</strong> Rp2.300.000</p>
       <p><strong>600 Sate + 100 Empal:</strong> Rp2.600.000</p>
