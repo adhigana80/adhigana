@@ -142,9 +142,10 @@
   <div class="package-section" id="paket">
     <h2 style="color:#c9a24c;">Paket Aqiqah</h2>
     <div class="package">
-      <img src="sate-putri.jpg" alt="Paket Sate Putri">
-      <h3>Paket Sate – Putri</h3>
-      <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
+      <div class="package-section" id="Paket Sate / Empal Putri">
+      <h3 style="color:#c9a24c;">Paket Sate / Empal Putri</h3>
+      <img src="sate-putri.jpg" alt="Paket Sate / Empal Putri">
+      <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong></p>
       <ul>
       <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
@@ -152,19 +153,25 @@
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk
+        <li>Sate 5 tusuk / Empal
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk</li>
+        <li>Sate 5 tusuk / Empal</li>
       <ul>
+      <p><strong>50 Box:</strong> Rp2.950.000</p>
+      <p><strong>85 Box:</strong> Rp3.750.000</p>
+      <p><strong>100 Box:</strong> Rp4.300.000</p>
+      <p><strong>120 Box:</strong> Rp5.000.000</p>
     </div>
-    <img src="empal-putri.jpg" alt="Paket Empal Putri">
-    <h3>Paket Empal – Putri</h3>
-    <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
+        
+    <div class="package-section" id="Paket Sate / Empal Putra">
+      <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
+      <img src="sate-putra.jpg" alt="Paket Sate / Empal Putra">
+      <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong></p>
     <ul>
       <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
@@ -172,55 +179,19 @@
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Empal
+        <li>Sate 10 tusuk / Empal
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Empal</li>
+        <li>Sate 10 tusuk / Empal</li>
       <ul>
-    </div> 
-    <img src="sate-putra.jpg" alt="Paket Sate Putra">
-    <h3>Paket Sate – Putra</h3>
-    <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
-    <ul>
-      <p>(Warangan)</p>
-        <li>Nasi Putih Penuh</li>
-        <li>Sambel Goreng</li>
-        <li>Telur</li>
-        <li>Acar / Mie</li>
-        <li>Kartu Ucapan Full Color</li>
-        <li>Sate 10 tusuk
-      <p>(Baceman)</p>
-        <li>Nasi Putih Penuh</li>
-        <li>Sambel Goreng</li>
-        <li>Telur Bacem</li>
-        <li>Tahu Bacem</li>
-        <li>Kartu Ucapan Full Color</li>
-        <li>Sate 10 tusuk</li>
-      <ul>
-    </div>
-    <img src="empal-putra.jpg" alt="Paket Empal Putra">
-    <h3>Paket Empal – Putra</h3>
-    <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
-    <ul>
-      <p>(Warangan)</p>
-        <li>Nasi Putih Penuh</li>
-        <li>Sambel Goreng</li>
-        <li>Telur</li>
-        <li>Acar / Mie</li>
-        <li>Kartu Ucapan Full Color</li>
-        <li>Empal
-      <p>(Baceman)</p>
-        <li>Nasi Putih Penuh</li>
-        <li>Sambel Goreng</li>
-        <li>Telur Bacem</li>
-        <li>Tahu Bacem</li>
-        <li>Kartu Ucapan Full Color</li>
-        <li>Empal</li>
-      </ul>
+      <p><strong>100 Box:</strong> Rp5.900.000</p>
+      <p><strong>125 Box:</strong> Rp6.750.000</p>
+      <p><strong>150 Box:</strong> Rp7.300.000</p>
+      <p><strong>200 Box:</strong> Rp9.000.000</p>
     </div>
   </div>
   
@@ -253,6 +224,7 @@
     <select id="Bagi" name="Bagi">
       <option value="putri/putra">Paket Putra</option>
       <option value="putri/putra">Paket Putri</option>
+      <option value="olahan">Paket Olahan</option>
     </select>
       
     <label for="jumlah Box/olahan">Jumlah Box/olahan</label>
@@ -273,7 +245,7 @@
     <label for="alamat">Alamat Pengiriman</label>
     <textarea id="alamat" name="alamat" rows="3" required></textarea>
 
-    <button type="wa.me/6285124537988">Kirim Pesanan</button>
+    <button type="https://wa.me/6285124537988">Kirim Pesanan</button>
   </form>
 
   <div class="whatsapp">
