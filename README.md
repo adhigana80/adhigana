@@ -273,7 +273,7 @@
     <label for="alamat">Alamat Pengiriman</label>
     <textarea id="alamat" name="alamat" rows="3" required></textarea>
 
-    <button type="submit">Kirim Pesanan</button>
+    <button type="wa.me/6285124537988">Kirim Pesanan</button>
   </form>
 
   <div class="whatsapp">
