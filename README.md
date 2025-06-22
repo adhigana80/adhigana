@@ -160,38 +160,40 @@
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk / Empal</li>
-        <ul>
+      
       <p><strong>Daftar Harga<strong>
         <p><strong>50 Box:</strong> Rp2.950.000</p>
         <p><strong>85 Box:</strong> Rp3.750.000</p>
         <p><strong>100 Box:</strong> Rp4.300.000</p>
         <p><strong>120 Box:</strong> Rp5.000.000</p>
     <ul>
-  <div class="package-section" id="Paket Sate / Empal Putra">
-  <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
+    
+    <div class="package-section" id="Paket Sate / Empal Putra">
+    <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
     <img src="sate-putra.jpg" alt="Paket Sate / Empal Putra">
     <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong></p>
     <ul>
-    <p>(Warangan)</p>
-      <li>Nasi Putih Penuh</li>
-      <li>Sambel Goreng</li>
-      <li>Telur</li>
-      <li>Acar / Mie</li>
-      <li>Kartu Ucapan Full Color</li>
-      <li>Sate 10 tusuk / Empal
-    <p>(Baceman)</p>
-      <li>Nasi Putih Penuh</li>
-      <li>Sambel Goreng</li>
-      <li>Telur Bacem</li>
-      <li>Tahu Bacem</li>
-      <li>Kartu Ucapan Full Color</li>
-      <li>Sate 10 tusuk / Empal
-      <ul>
-    <p><strong>Daftar Harga<strong>
-      <p><strong>100 Box:</strong> Rp5.900.000</p>
-      <p><strong>125 Box:</strong> Rp6.750.000</p>
-      <p><strong>150 Box:</strong> Rp7.300.000</p>
-      <p><strong>200 Box:</strong> Rp9.000.000</p>
+      <p>(Warangan)</p>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
+        <li>Telur</li>
+        <li>Acar / Mie</li>
+        <li>Kartu Ucapan Full Color</li>
+        <li>Sate 10 tusuk / Empal
+      <p>(Baceman)</p>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
+        <li>Telur Bacem</li>
+        <li>Tahu Bacem</li>
+        <li>Kartu Ucapan Full Color</li>
+        <li>Sate 10 tusuk / Empal
+      
+      <p><strong>Daftar Harga<strong>
+        <p><strong>100 Box:</strong> Rp5.900.000</p>
+        <p><strong>125 Box:</strong> Rp6.750.000</p>
+        <p><strong>150 Box:</strong> Rp7.300.000</p>
+        <p><strong>200 Box:</strong> Rp9.000.000</p>
+    <ul>
   
   <div class="package-section" id="olahan">
     <h2 style="color:#c9a24c;">Paket Olahan</h2>
@@ -218,7 +220,7 @@
       <option value="olahan">Paket Olahan</option>
     </select>
 
-    <label for="bagi">Pilih Paket</label>
+    <label for="Bagi">Bagi</label>
     <select id="Bagi" name="Bagi">
       <option value="putri/putra">Paket Putra</option>
       <option value="putri/putra">Paket Putri</option>
@@ -227,17 +229,21 @@
       
     <label for="jumlah Box/olahan">Jumlah Box/olahan</label>
     <select id="Jumlah Box/olahan" name="Jumlah Box/olahan">
-      <option value="paket putri">50 Box</option>
-      <option value="paket putri">85 Box</option>
-      <option value="paket putri/putra">100 Box</option>
-      <option value="paket putri">120 Box</option>
-      <option value="paket putra">125 Box</option>
-      <option value="paket putra">150 Box</option>
-      <option value="paket putra">200 Box</option>
-      <option value="paket olahan">450 Sate + 70 Empal</option>
-      <option value="paket olahan">500 Sate + 80 Empal</option>
-      <option value="paket olahan">600 Sate + 100 Empal</option>
-      <option value="paket olahan">700 Sate + 120 Empal</option>
+      <form id="Paket Sate / Empal Putri">
+        <option value="paket putri">50 Box</option>
+        <option value="paket putri">85 Box</option>
+        <option value="paket putri">100 Box</option>
+        <option value="paket putri">120 Box</option>
+      <form id="Paket Sate / Empal Putra">
+        <option value="paket putra">100 Box</option>
+        <option value="paket putra">125 Box</option>
+        <option value="paket putra">150 Box</option>
+        <option value="paket putra">200 Box</option>
+      <form id="Paket Olahan">
+        <option value="paket olahan">450 Sate + 70 Empal</option>
+        <option value="paket olahan">500 Sate + 80 Empal</option>
+        <option value="paket olahan">600 Sate + 100 Empal</option>
+        <option value="paket olahan">700 Sate + 120 Empal</option>
       </select>
     
     <label for="alamat">Alamat Pengiriman</label>
