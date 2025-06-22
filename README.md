@@ -156,7 +156,7 @@
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
-        <li>Tahu Bacem<li>
+        <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
       </ul>
