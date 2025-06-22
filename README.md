@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -145,9 +145,19 @@
       <h3>Paket Sate – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
       <ul>
-        <li>Opsi Warangan / Baceman</li>
-        <li>Nasi Putih Penuh, Sambel Goreng, Telur</li>
-        <li>Acar / Mie, Kartu Ucapan</li>
+        <li>(Warangan)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur</li>
+        <li>Acar / Mie<li>
+        <li>Kartu Ucapan</li>
+        <li>Sate 5 tusuk</li>
+        <li>(Baceman)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur Bacem</li>
+        <li>Tahu Bacem<li>
+        <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
       </ul>
     </div>
@@ -156,9 +166,20 @@
       <h3>Paket Empal – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
       <ul>
-        <li>Opsi Warangan / Baceman</li>
-        <li>Empal, Nasi Penuh, Sambel Goreng</li>
+        <li>(Warangan)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur</li>
+        <li>Acar / Mie<li>
+        <li>Kartu Ucapan</li>
+        <li>Sate 5 tusuk</li>
+        <li>(Baceman)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur Bacem</li>
+        <li>Tahu Bacem<li>
         <li>Kartu Ucapan Full Color</li>
+        <li>Empal</li>
       </ul>
     </div>
     <div class="package">
@@ -166,9 +187,20 @@
       <h3>Paket Sate – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
       <ul>
-        <li>Sate 5 Tusuk, Nasi Penuh</li>
-        <li>Telur, Acar / Mie</li>
+        <li>(Warangan)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur</li>
+        <li>Acar / Mie<li>
         <li>Kartu Ucapan</li>
+        <li>Sate 5 tusuk</li>
+        <li>(Baceman)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur Bacem</li>
+        <li>Tahu Bacem<li>
+        <li>Kartu Ucapan Full Color</li>
+        <li>Sate 10 tusuk</li>
       </ul>
     </div>
     <div class="package">
@@ -176,9 +208,20 @@
       <h3>Paket Empal – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
       <ul>
-        <li>Empal, Nasi Penuh</li>
-        <li>Telur Bacem, Tahu Bacem</li>
+        <li>(Warangan)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur</li>
+        <li>Acar / Mie<li>
         <li>Kartu Ucapan</li>
+        <li>Sate 5 tusuk</li>
+        <li>(Baceman)</li>
+        <li>Nasi Putih Penuh<li>
+        <li>Sambel Goreng<li>
+        <li>Telur Bacem</li>
+        <li>Tahu Bacem<li>
+        <li>Kartu Ucapan Full Color</li>
+        <li>Empal</li>
       </ul>
     </div>
   </div>
