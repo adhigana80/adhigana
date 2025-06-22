@@ -145,14 +145,14 @@
       <h3>Paket Sate – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
       <ul>
-      <li>(Warangan)</li>
+      <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-      <li>(Baceman)</li>
+      <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
@@ -166,14 +166,14 @@
       <h3>Paket Empal – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
       <ul>
-        <li>(Warangan)</li>
+      <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-        <li>(Baceman)</li>
+      <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
@@ -187,14 +187,14 @@
       <h3>Paket Sate – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
       <ul>
-        <li>(Warangan)</li>
+      <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-        <li>(Baceman)</li>
+      <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
@@ -208,14 +208,14 @@
       <h3>Paket Empal – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
       <ul>
-        <li>(Warangan)</li>
+      <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur</li>
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-        <li>(Baceman)</li>
+      <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
