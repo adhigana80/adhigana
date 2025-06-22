@@ -152,7 +152,7 @@
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-      <ul>
+        <ul>
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -174,7 +174,7 @@
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-      <ul>
+        <ul>
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -196,7 +196,7 @@
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-      <ul>
+        <ul>
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -218,7 +218,7 @@
         <li>Acar / Mie</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
-      <ul>
+        <ul>
       <p>(Baceman)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
