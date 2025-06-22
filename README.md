@@ -162,12 +162,11 @@
         <li>Sate 5 tusuk</li>
       <ul>
     </div>
-    </div>
-    <div class="package">
-      <img src="empal-putri.jpg" alt="Paket Empal Putri">
-      <h3>Paket Empal – Putri</h3>
-      <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
-      <ul>
+  <div class="package-section">
+    <img src="empal-putri.jpg" alt="Paket Empal Putri">
+    <h3>Paket Empal – Putri</h3>
+    <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
+    <ul>
       <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
         <li>Sambel Goreng</li>
@@ -184,8 +183,7 @@
         <li>Empal</li>
       <ul>
     </div>
-    </div>
-    <div class="package">
+  <div class="package">
       <img src="sate-putra.jpg" alt="Paket Sate Putra">
       <h3>Paket Sate – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
@@ -206,7 +204,8 @@
         <li>Sate 10 tusuk</li>
       <ul>
     </div>
-    </div>
+  <div class="package-section" id="Empal">
+    <h2 style="color:#c9a24c;">Paket Putra</h2>
     <div class="package">
       <img src="empal-putra.jpg" alt="Paket Empal Putra">
       <h3>Paket Empal – Putra</h3>
@@ -227,7 +226,6 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
       </ul>
-    </div>
   </div>
 
   <div class="package-section" id="olahan">
