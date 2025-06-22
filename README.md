@@ -1,7 +1,6 @@
 
 <html lang="id">
 <head>
-  <img src="Gambar WhatsApp 2025-06-22 pukul 15.54.03_eb7eed6f.jpg" alt="Logo Adhigana Aqiqah" width="120">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Adhigana Aqiqah</title>
@@ -126,7 +125,7 @@
 </head>
 <body>
   <header>
-    <h1>ADHIGANA AQIQAH</h1>
+    <h1>ADHIGANA AQIQAH</h1><img src="Gambar WhatsApp 2025-06-22 pukul 15.54.03_eb7eed6f.jpg" alt="Logo Adhigana Aqiqah" width="120">
     <nav>
       <a href="#paket">Paket</a>
       <a href="#olahan">Olahan</a>
@@ -160,7 +159,7 @@
         <li>Telur Bacem</li>
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 5 tusuk / Empal</li>
+        <li>Sate 5 tusuk / Empal
       <ul>
       <p><strong>Daftar Harga<strong></p>
       <p><strong>50 Box:</strong> Rp2.950.000</p>
@@ -170,9 +169,9 @@
     </div>
     <ul>
     <div class="package-section" id="Paket Sate / Empal Putra">
-      <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
-      <img src="sate-putra.jpg" alt="Paket Sate / Empal Putra">
-      <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong></p>
+    <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
+    <img src="sate-putra.jpg" alt="Paket Sate / Empal Putra">
+    <p><strong>Bebas Pilih Mau Warangan ataupun Baceman<strong></p>
     <ul>
       <p>(Warangan)</p>
         <li>Nasi Putih Penuh</li>
@@ -187,7 +186,7 @@
         <li>Telur Bacem</li>
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
-        <li>Sate 10 tusuk / Empal</li>
+        <li>Sate 10 tusuk / Empal
       <ul>
       <p><strong>Daftar Harga<strong></p>
       <p><strong>100 Box:</strong> Rp5.900.000</p>
@@ -195,8 +194,6 @@
       <p><strong>150 Box:</strong> Rp7.300.000</p>
       <p><strong>200 Box:</strong> Rp9.000.000</p>
       <ul>
-    </div>
-  </div>
   
   <div class="package-section" id="olahan">
     <h2 style="color:#c9a24c;">Paket Olahan</h2>
