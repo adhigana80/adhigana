@@ -161,7 +161,7 @@
         <li>Sate 5 tusuk</li>
       <ul>
     </div>
-    <div class="package">
+    <div class="package-section">
       <img src="empal-putri.jpg" alt="Paket Empal Putri">
       <h3>Paket Empal – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
@@ -182,7 +182,7 @@
         <li>Empal</li>
       <ul>
     </div>
-    <div class="package">
+    <div class="package-section">
       <img src="sate-putra.jpg" alt="Paket Sate Putra">
       <h3>Paket Sate – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
@@ -203,7 +203,7 @@
         <li>Sate 10 tusuk</li>
       <ul>
     </div>
-    <div class="package">
+    <div class="package-section">
       <img src="empal-putra.jpg" alt="Paket Empal Putra">
       <h3>Paket Empal – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
@@ -270,5 +270,4 @@
   </footer>
 
   <a class="wa-chat" href="https://wa.me/6285124537988">Chat WhatsApp</a>
-</body>
-</html>
+
