@@ -167,7 +167,7 @@
         <p><strong>100 Box:</strong> Rp4.300.000</p>
         <p><strong>120 Box:</strong> Rp5.000.000</p>
     <ul>
-    
+    </div>
     <div class="package-section" id="Paket Sate / Empal Putra">
     <h3 style="color:#c9a24c;">Paket Sate / Empal Putra</h3>
     <img src="sate-putra.jpg" alt="Paket Sate / Empal Putra">
@@ -193,8 +193,8 @@
         <p><strong>125 Box:</strong> Rp6.750.000</p>
         <p><strong>150 Box:</strong> Rp7.300.000</p>
         <p><strong>200 Box:</strong> Rp9.000.000</p>
-    <ul>
-  
+      <ul>
+      </div>
   <div class="package-section" id="olahan">
     <h2 style="color:#c9a24c;">Paket Olahan</h2>
     <div class="package">
