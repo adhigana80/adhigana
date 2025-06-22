@@ -1,6 +1,7 @@
 
 <html lang="id">
 <head>
+  <img src="Gambar WhatsApp 2025-06-22 pukul 15.54.03_eb7eed6f.jpg" alt="Logo Adhigana Aqiqah" width="120">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Adhigana Aqiqah</title>
@@ -140,7 +141,7 @@
 
   <div class="package-section" id="paket">
     <h2 style="color:#c9a24c;">Paket Aqiqah</h2>
-    <div class="package-section">
+    <div class="package">
       <img src="sate-putri.jpg" alt="Paket Sate Putri">
       <h3>Paket Sate – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
@@ -161,7 +162,8 @@
         <li>Sate 5 tusuk</li>
       <ul>
     </div>
-    <div class="package-section">
+    </div>
+    <div class="package">
       <img src="empal-putri.jpg" alt="Paket Empal Putri">
       <h3>Paket Empal – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
@@ -182,7 +184,8 @@
         <li>Empal</li>
       <ul>
     </div>
-    <div class="package-section">
+    </div>
+    <div class="package">
       <img src="sate-putra.jpg" alt="Paket Sate Putra">
       <h3>Paket Sate – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
@@ -203,7 +206,8 @@
         <li>Sate 10 tusuk</li>
       <ul>
     </div>
-    <div class="package-section">
+    </div>
+    <div class="package">
       <img src="empal-putra.jpg" alt="Paket Empal Putra">
       <h3>Paket Empal – Putra</h3>
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
