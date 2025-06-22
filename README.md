@@ -181,7 +181,7 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
       <ul>
-    </div>  
+    </div> 
     <img src="sate-putra.jpg" alt="Paket Sate Putra">
     <h3>Paket Sate – Putra</h3>
     <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
@@ -201,7 +201,7 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 10 tusuk</li>
       <ul>
-    </div> 
+    </div>
     <img src="empal-putra.jpg" alt="Paket Empal Putra">
     <h3>Paket Empal – Putra</h3>
     <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
@@ -222,7 +222,7 @@
         <li>Empal</li>
       </ul>
     </div>
-
+  </div>
   <div class="package-section" id="olahan">
     <h2 style="color:#c9a24c;">Paket Olahan</h2>
     <div class="package">
