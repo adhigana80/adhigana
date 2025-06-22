@@ -146,15 +146,15 @@
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
       <ul>
         <li>(Warangan)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur</li>
-        <li>Acar / Mie<li>
-        <li>Kartu Ucapan</li>
+        <li>Acar / Mie</li>
+        <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
         <li>(Baceman)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
         <li>Tahu Bacem<li>
         <li>Kartu Ucapan Full Color</li>
@@ -167,17 +167,17 @@
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
       <ul>
         <li>(Warangan)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur</li>
-        <li>Acar / Mie<li>
-        <li>Kartu Ucapan</li>
+        <li>Acar / Mie</li>
+        <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
         <li>(Baceman)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
-        <li>Tahu Bacem<li>
+        <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
       </ul>
@@ -188,17 +188,17 @@
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
       <ul>
         <li>(Warangan)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur</li>
-        <li>Acar / Mie<li>
-        <li>Kartu Ucapan</li>
+        <li>Acar / Mie</li>
+        <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
         <li>(Baceman)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
-        <li>Tahu Bacem<li>
+        <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 10 tusuk</li>
       </ul>
@@ -209,17 +209,17 @@
       <p><strong>Harga:</strong> Mulai dari Rp5.900.000 (100 Box)</p>
       <ul>
         <li>(Warangan)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur</li>
-        <li>Acar / Mie<li>
-        <li>Kartu Ucapan</li>
+        <li>Acar / Mie</li>
+        <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
         <li>(Baceman)</li>
-        <li>Nasi Putih Penuh<li>
-        <li>Sambel Goreng<li>
+        <li>Nasi Putih Penuh</li>
+        <li>Sambel Goreng</li>
         <li>Telur Bacem</li>
-        <li>Tahu Bacem<li>
+        <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
       </ul>
