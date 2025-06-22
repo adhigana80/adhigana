@@ -160,7 +160,7 @@
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk / Empal</li>
-      
+      <ul>
       <p><strong>Daftar Harga<strong>
         <p><strong>50 Box:</strong> Rp2.950.000</p>
         <p><strong>85 Box:</strong> Rp3.750.000</p>
@@ -187,7 +187,7 @@
         <li>Tahu Bacem</li>
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 10 tusuk / Empal
-      
+      <ul>
       <p><strong>Daftar Harga<strong>
         <p><strong>100 Box:</strong> Rp5.900.000</p>
         <p><strong>125 Box:</strong> Rp6.750.000</p>
