@@ -140,7 +140,7 @@
 
   <div class="package-section" id="paket">
     <h2 style="color:#c9a24c;">Paket Aqiqah</h2>
-    <div class="package">
+    <div class="package-section">
       <img src="sate-putri.jpg" alt="Paket Sate Putri">
       <h3>Paket Sate – Putri</h3>
       <p><strong>Harga:</strong> Mulai dari Rp2.950.000 (50 Box)</p>
