@@ -161,7 +161,7 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 5 tusuk</li>
       <ul>
-  </div>
+      </div>
   <div class="package">
     <img src="empal-putri.jpg" alt="Paket Empal Putri">
     <h3>Paket Empal – Putri</h3>
@@ -182,7 +182,7 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
       <ul>
-  </div>
+      </div>
   <div class="package">
     <img src="sate-putra.jpg" alt="Paket Sate Putra">
     <h3>Paket Sate – Putra</h3>
@@ -203,7 +203,7 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Sate 10 tusuk</li>
       <ul>
-  </div>
+      </div>
   <div class="package">
     <img src="empal-putra.jpg" alt="Paket Empal Putra">
     <h3>Paket Empal – Putra</h3>
@@ -224,7 +224,7 @@
         <li>Kartu Ucapan Full Color</li>
         <li>Empal</li>
       </ul>
-  </div>
+      </div>
 
   <div class="package-section" id="olahan">
     <h2 style="color:#c9a24c;">Paket Olahan</h2>
@@ -244,16 +244,34 @@
 
     <label for="paket">Pilih Paket</label>
     <select id="paket" name="paket">
-      <option value="sate-putri">Sate Putri</option>
-      <option value="empal-putri">Empal Putri</option>
-      <option value="sate-putra">Sate Putra</option>
-      <option value="empal-putra">Empal Putra</option>
+      <option value="sate-putri/putri">Paket Sate</option>
+      <option value="empal-putri/putra">Paket Empal</option>
+      <option value="sate-putra">Paket Sate</option>
+      <option value="empal-putra">Paket Empal</option>
       <option value="olahan">Paket Olahan</option>
     </select>
 
-    <label for="jumlah">Jumlah Box</label>
-    <input type="number" id="jumlah" name="jumlah" required>
-
+    <label for="bagi">Pilih Paket</label>
+    <select id="Bagi" name="Bagi">
+      <option value="putri/putra">Paket Putra</option>
+      <option value="putri/putra">Paket Putri</option>
+    </select>
+      
+    <label for="jumlah Box/olahan">Jumlah Box/olahan</label>
+    <select id="Jumlah Box/olahan" name="Jumlah Box/olahan">
+      <option value="paket putri">50 Box</option>
+      <option value="paket putri">85 Box</option>
+      <option value="paket putri/putra">100 Box</option>
+      <option value="paket putri">120 Box</option>
+      <option value="paket putra">125 Box</option>
+      <option value="paket putra">150 Box</option>
+      <option value="paket putra">200 Box</option>
+      <option value="paket olahan">450 Sate + 70 Empal</option>
+      <option value="paket olahan">500 Sate + 80 Empal</option>
+      <option value="paket olahan">600 Sate + 100 Empal</option>
+      <option value="paket olahan">700 Sate + 120 Empal</option>
+      </select>
+    
     <label for="alamat">Alamat Pengiriman</label>
     <textarea id="alamat" name="alamat" rows="3" required></textarea>
 
